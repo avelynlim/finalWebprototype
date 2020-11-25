@@ -1,0 +1,38 @@
+
+/*this is background for website*/
+body{
+  background: grey;
+}
+
+div {
+  background: pink;
+  width: auto;
+  height: 100px;
+  margin: 10px;
+}
+
+.logo{
+  background: white;
+  display: inline-block;
+  border: 3px solid lime;
+  width: 90%;
+  height: 65%;
+  margin: 1% 5% ;
+  position: relative;
+}
+.logo h1{
+  
+}
+.buttons{
+  background: blue;
+  display: inline;
+  left: 100px;
+  position: relative;
+
+}
+.nav {
+  background: bisque;
+  top: 300px;
+  width: auto;
+  height: 50px;
+}
